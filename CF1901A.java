@@ -1,5 +1,3 @@
-package javabootcamp;
-
 import java.util.*;
 public class CF1901A {
 
