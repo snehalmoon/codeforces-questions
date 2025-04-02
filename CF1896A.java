@@ -1,4 +1,3 @@
-package javabootcamp;
 
 import java.util.Scanner;
 
